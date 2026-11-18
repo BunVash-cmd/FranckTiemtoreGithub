@@ -25,13 +25,13 @@ window.PROFILE = {
   ],
   "projects": [
     {
-      "name": "Governance Program Design",
-      "lane": "Govern",
-      "summary": "Group capstone (with Adepoju and Awoye): a security governance program for a case-study company, covering the problem statement, scope, vision and mission, and current state.",
+      "name": "Information Security Fundamentals",
+      "lane": "",
+      "summary": "",
       "files": [
         {
-          "label": "Final paper",
-          "url": "https://drive.google.com/file/d/1im3WNLGuKB_MUP2s6ZgdNo-ScmYR2xwz/view?usp=sharing"
+          "label": "Labs Reports",
+          "url": "https://studentschattahoocheetech-my.sharepoint.com/:f:/g/personal/ftiemtor_students_chattahoocheetech_edu/IgA8PnhfmnmtQrXhZChnrCM2AbUlZguGTmN2ptbatnq7DCk?e=9sxW2f"
         }
       ]
     },
